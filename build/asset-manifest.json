@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/anshumanui/reacthooks/static/css/main.81d5bc88.chunk.css",
-    "main.js": "/anshumanui/reacthooks/static/js/main.1a4a7d4a.chunk.js",
-    "main.js.map": "/anshumanui/reacthooks/static/js/main.1a4a7d4a.chunk.js.map",
-    "runtime-main.js": "/anshumanui/reacthooks/static/js/runtime-main.6366cc38.js",
-    "runtime-main.js.map": "/anshumanui/reacthooks/static/js/runtime-main.6366cc38.js.map",
-    "static/css/2.eebfb074.chunk.css": "/anshumanui/reacthooks/static/css/2.eebfb074.chunk.css",
-    "static/js/2.f4ebea92.chunk.js": "/anshumanui/reacthooks/static/js/2.f4ebea92.chunk.js",
-    "static/js/2.f4ebea92.chunk.js.map": "/anshumanui/reacthooks/static/js/2.f4ebea92.chunk.js.map",
-    "index.html": "/anshumanui/reacthooks/index.html",
-    "precache-manifest.971e8801a70146dc6b16b1b0f109d069.js": "/anshumanui/reacthooks/precache-manifest.971e8801a70146dc6b16b1b0f109d069.js",
-    "service-worker.js": "/anshumanui/reacthooks/service-worker.js",
-    "static/css/2.eebfb074.chunk.css.map": "/anshumanui/reacthooks/static/css/2.eebfb074.chunk.css.map",
-    "static/css/main.81d5bc88.chunk.css.map": "/anshumanui/reacthooks/static/css/main.81d5bc88.chunk.css.map",
-    "static/js/2.f4ebea92.chunk.js.LICENSE.txt": "/anshumanui/reacthooks/static/js/2.f4ebea92.chunk.js.LICENSE.txt"
+    "main.css": "/reacthooks/static/css/main.81d5bc88.chunk.css",
+    "main.js": "/reacthooks/static/js/main.b27de7a4.chunk.js",
+    "main.js.map": "/reacthooks/static/js/main.b27de7a4.chunk.js.map",
+    "runtime-main.js": "/reacthooks/static/js/runtime-main.46c9c49e.js",
+    "runtime-main.js.map": "/reacthooks/static/js/runtime-main.46c9c49e.js.map",
+    "static/css/2.eebfb074.chunk.css": "/reacthooks/static/css/2.eebfb074.chunk.css",
+    "static/js/2.f4ebea92.chunk.js": "/reacthooks/static/js/2.f4ebea92.chunk.js",
+    "static/js/2.f4ebea92.chunk.js.map": "/reacthooks/static/js/2.f4ebea92.chunk.js.map",
+    "index.html": "/reacthooks/index.html",
+    "precache-manifest.3766658be9c0a0989b49f25656699d7c.js": "/reacthooks/precache-manifest.3766658be9c0a0989b49f25656699d7c.js",
+    "service-worker.js": "/reacthooks/service-worker.js",
+    "static/css/2.eebfb074.chunk.css.map": "/reacthooks/static/css/2.eebfb074.chunk.css.map",
+    "static/css/main.81d5bc88.chunk.css.map": "/reacthooks/static/css/main.81d5bc88.chunk.css.map",
+    "static/js/2.f4ebea92.chunk.js.LICENSE.txt": "/reacthooks/static/js/2.f4ebea92.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6366cc38.js",
+    "static/js/runtime-main.46c9c49e.js",
     "static/css/2.eebfb074.chunk.css",
     "static/js/2.f4ebea92.chunk.js",
     "static/css/main.81d5bc88.chunk.css",
-    "static/js/main.1a4a7d4a.chunk.js"
+    "static/js/main.b27de7a4.chunk.js"
   ]
 }
