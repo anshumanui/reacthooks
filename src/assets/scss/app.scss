@@ -1,0 +1,33 @@
+
+@import '_mixin';
+
+section {
+	.cc-tab {
+		li {
+			a {
+				color: $active;
+				font-weight: 500;
+			}
+
+			&.uk-active {
+				a {
+					color: $warning;
+					border-bottom: 2px solid $warning;
+				}
+			}
+		}
+	}
+	h5 {
+		&.success {
+			background: $active;
+		}
+
+		&.info {
+			background: $info;
+		}
+
+		&.error {
+			background: $danger;
+		}
+	}
+}

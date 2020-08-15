@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:400&display=swap');
+
+//	Color styles declared here
+$black: #000;
+$darkest-grey: #333;
+$darker-grey: #666;
+$dark-grey: #999;
+$grey: #CCC;
+$light-grey: #DDD;
+$lighter-grey: #EEE;
+$lightest-grey: #F7F7F7;
+$white: #FFF;
+
+$primary: #3A6073;
+$danger: #f0506e;
+$success: #009688;
+$info: #2196f3;
+$warning: #ff876f;
+$active: #656179;
+$neutral: #12CBC4;
+
+
+content {
+	display: block;
+}
+
+pre {
+	color: $active;
+	border: 0;
+	background: $lightest-grey;
+
+	&.info {
+		color: $info;
+	}
+}
+
+:not(pre) > code {
+	color: $info;
+}
+
+.title-letter-spacing {
+	letter-spacing: 2px;
+}
+
+.uk-background-muted {
+	:not(pre) > code {
+		background: $white;
+	}
+}

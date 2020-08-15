@@ -1,0 +1,10 @@
+
+@import '_global';
+
+$browsers: -webkit-,-moz-,-o-,-ms-;
+
+@mixin animation {
+	@each $br in $browsers {
+		#{$br}transition: all 0.3s ease-in-out 0s;
+	}
+}
