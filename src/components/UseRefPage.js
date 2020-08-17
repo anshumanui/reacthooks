@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 
-function UseEffectPage() {
+function UseRefPage() {
 
     return (
 		<li>
@@ -21,4 +21,4 @@ function UseEffectPage() {
     );
 }
 
-export default UseEffectPage;
+export default UseRefPage;

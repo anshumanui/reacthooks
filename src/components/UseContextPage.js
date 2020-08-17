@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
 
 
-function UseEffectPage() {
+function UseContextPage() {
 
     return (
 		<li>
             <div className="uk-grid-medium uk-child-width-1-2@s uk-margin-medium-top" data-uk-grid>
                 <div>
                     <pre className="info">
-                    {`const [state, setState] = useState(initialState);`}
+                    {`const value = useContext(MyContext);`}
                     </pre>
                 </div>
             </div>
@@ -21,4 +21,4 @@ function UseEffectPage() {
     );
 }
 
-export default UseEffectPage;
+export default UseContextPage;

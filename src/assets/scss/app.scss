@@ -33,7 +33,7 @@ section {
 	}
 
 	.cc-title {
-		color: $neutral;
+		color: $warning;
 		position: relative;
 		font-weight: 500;
 
@@ -42,7 +42,7 @@ section {
 			position: absolute;
 			width: 100px;
 			height: 2px;
-			background: $neutral;
+			background: $warning;
 			bottom: -10px;
 			left: 0;
 		}
