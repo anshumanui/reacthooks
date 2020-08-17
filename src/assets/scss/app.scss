@@ -17,6 +17,7 @@ section {
 			}
 		}
 	}
+
 	h5 {
 		&.success {
 			background: $active;
@@ -28,6 +29,22 @@ section {
 
 		&.error {
 			background: $danger;
+		}
+	}
+
+	.cc-title {
+		color: $neutral;
+		position: relative;
+		font-weight: 500;
+
+		&:before {
+			content: '';
+			position: absolute;
+			width: 100px;
+			height: 2px;
+			background: $neutral;
+			bottom: -10px;
+			left: 0;
 		}
 	}
 }

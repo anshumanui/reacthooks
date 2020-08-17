@@ -310,7 +310,7 @@ function UseEffectPage() {
 
             <div className="uk-grid-large uk-margin-medium-top uk-child-width-1-2@s" data-uk-grid>
                 <div>
-                    <h5 className="uk-margin-remove-top uk-margin-medium-bottom">Demo - Create Task List</h5>
+                    <h5 className="uk-margin-remove-top uk-margin-medium-bottom cc-title">Demo - Create Task List</h5>
                     <ToDoList />
 
                     <h5 className="uk-margin-remove-bottom uk-margin-medium-top success uk-box-shadow-small uk-padding-small uk-light">Example - Create Task List</h5>
@@ -357,7 +357,7 @@ function UseEffectPage() {
                 </div>
 
                 <div>
-                    <h5 className="uk-margin-remove-top uk-margin-medium-bottom">Demo - Enter Message (Wrong Usage)</h5>
+                    <h5 className="uk-margin-remove-top uk-margin-medium-bottom cc-title">Demo - Enter Message (Wrong Usage)</h5>
                     <MessageBox />
 
                     <h5 className="uk-margin-remove-bottom uk-margin-medium-top error uk-box-shadow-small uk-padding-small uk-light">Example - Enter Message (Wrong Usage)</h5>
@@ -435,7 +435,8 @@ function UseEffectPage() {
                 	There’s nothing wrong with calling useState multiple times, and in most cases, that’s how I store multiple values. Once you get over 4 or 5 useState calls it gets a bit unwieldy, but if you’re fine with it, React is too.
                 </div>
 
-                <div className="uk-width-expand@s">    
+                <div className="uk-width-expand@s"> 
+                    <h5 className="uk-margin-remove-top uk-margin-medium-bottom cc-title">Demo - Login Form (Repetitive state variables)</h5>   
                     <LoginForm />         	
                 	<h5 className="uk-margin-remove-bottom success uk-box-shadow-small uk-padding-small uk-light">Example - Login form (Repetitive state variables)</h5>
                     <div className="uk-background-muted uk-padding-small">
@@ -477,7 +478,8 @@ function UseEffectPage() {
                 	</div>
                 </div>
 
-                <div className="uk-width-3-5@s">  
+                <div className="uk-width-3-5@s"> 
+                    <h5 className="uk-margin-remove-top uk-margin-medium-bottom cc-title">Demo - Login Form (Dynamic setting state)</h5>   
                     <LoginFormDynamic />             	
                     <h5 className="uk-margin-remove-bottom success uk-box-shadow-small uk-padding-small uk-light">Example - Login form (Dynamic setting state)</h5>
                     <pre className="uk-margin-remove-top uk-padding-small success">
